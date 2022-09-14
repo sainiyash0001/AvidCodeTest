@@ -49,9 +49,7 @@ Use git commands to do the following:</br>
 
 To help you get started, here is a CURL example:
 
-curl --location --request POST 'https://mko2aswez1.execute-api.us-west-2.amazonaws.com/V1/AvidCodeTest' \
---header 'x-api-key: qaEMpgfPNC4wvRuApSEiD7HzNRGrKTkd1yBFiwXP' \
---data-raw ''
+<p><code style="font-size: 5em">curl --location --request POST 'https://mko2aswez1.execute-api.us-west-2.amazonaws.com/V1/AvidCodeTest' --header 'x-api-key: qaEMpgfPNC4wvRuApSEiD7HzNRGrKTkd1yBFiwXP' </code></p>
 
 <b>Stretch Goal</b></br>
 Send me an email and let me know if you would like to attempt this. (ahill@avidac.com)</br>
