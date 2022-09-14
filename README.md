@@ -25,6 +25,7 @@ Pass the apikey to the call by using the header x-api-key
 <b>Questions: </b></br>
 Why is is bad practice to include the .env file in a git repository?</br>
 What file would you create in a git repository to make sure that this file was not included?</br>
+Send the answers to these questions to ahill@avidac.com</br>
 
 To complete the assignment:</br>
 
