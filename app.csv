@@ -1,0 +1,4 @@
+firstname,lastname,address1,addresss2,city,state,zipcode
+John,Smith,6995 Union Park Center Blvd.,Suite 450,Cottonwood Heights,UT,84047
+original_amount_financed,current_principal_balance,current_interest_balance,current_fees_balance,current_late_charge_balance,current_payoff_balance,next_due_date
+16898.91,11873.31,6.1,39.28,35.28,11953.97,10/15/2022
